@@ -11,4 +11,5 @@ INSTRUCTIOS TO USE- after coming to thr repository download the csv databse to c
 next 
 click the open in colab then uplode the file in the colab and copy path of the file and replace with crop_recomndation.csv and THE path. 
 run all then change the NKP value and temperture and humidity and then output can seen on the screen.
-demo video link : https://drive.google.com/file/d/1ZYJr78iDtUK_oirziddkSXQQqd2Aq_UJ/view?usp=drive_link
+demo video link : 
+https://drive.google.com/file/d/1Zel9JycDcXVhKk4WrJ1WANp50SxNhewo/view?usp=drivesdk
